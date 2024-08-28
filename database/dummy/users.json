@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"66c598c24f62c45d415976a0"},"us_id":"66c598c24f62c45d415976a0","us_name":"John Doe","us_password":"password123","us_email":"john@example.com","us_phone_number":1234567890,"us_address":"123 Main St","us_created_at":{"$date":"2024-08-21T07:35:30.382Z"},"us_updated_at":{"$date":"2024-08-21T07:35:30.382Z"},"__v":0}]

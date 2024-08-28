@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"66c59dfa5741910ab47113c0"},"pd_code":"PROD01","pd_name":"Smartphone","pd_price":299.99,"pd_ct_id":{"$oid":"66c592c6eee658add9c567c6"},"pd_created_at":{"$date":"2024-08-21T07:57:46.481Z"},"pd_updated_at":{"$date":"2024-08-21T07:57:46.481Z"},"pd_id":"66c59dfa5741910ab47113c0","__v":0}]
